@@ -5,4 +5,5 @@
 .idea/modules.xml
 .idea/webpack-demo.iml
 .idea/workspace.xml
-a.GettingStarted/BasicSetup/node_modules/
+a.GettingStarted/a.Basic_Setup/node_modules
+a.GettingStarted/b.Creating_a_Bundle/node_modules
